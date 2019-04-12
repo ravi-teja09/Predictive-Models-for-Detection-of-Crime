@@ -6,9 +6,9 @@ Applying machine learning to solve handwriting comparison task in forensics.
 
 ### Implementation and Results
 * Developed a solution to find similarity between the handwritten samples of the known and the questioned writer by using: 
-a) Linear regression model with threshold classification
-b) Logistic regression
-c) Deep neural network with Keras and Tensorflow
+  * a) Linear regression model with threshold classification
+  * b) Logistic regression
+  * c) Deep neural network with Keras and Tensorflow
 * Compared model performances on datasets with features extracted by ‘Humans’ and ‘Gradient 
 Structural Concavity (GSC) algorithm’.
 * Achieved a classification rate of 57% on unseen data of Human observed dataset using neural 
